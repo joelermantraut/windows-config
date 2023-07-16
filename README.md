@@ -2,7 +2,7 @@
 A guide to config Windows system like I use it.
 
 Steps
-1. Install (Tabby Terminal)[https://tabby.sh/].
+1. Install [Tabby Terminal](https://tabby.sh/).
 2. Open Tabby. Go to last option (Config File). Select "Show Config File". 
 3. Copy - paste config.yaml file in Tabby directory.
 4. Install [Git](https://gitforwindows.org/).
