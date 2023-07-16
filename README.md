@@ -12,7 +12,10 @@ Steps
 8. Copy or download your own password directory. Then follow pass-winmenu (setup instructions)[https://github.com/geluk/pass-winmenu#creating-a-new-password-store].
 9. I use a 60% keyboard, so I need to change my keyboard layout. To that, I use (Microsoft Keyboard Layout Creator)[https://www.microsoft.com/en-us/download/details.aspx?id=102134]. Then config it, it is really simple to use.
 10. Download and config (ContextMenuManager)[https://github.com/BluePointLilac/ContextMenuManager] to delete any unwanted option added to you Windows Context Menu.
+11. Don't forget to user personal accounts in software like Google Chrome and Visual Studio Code to automatically sync preferences.
 
 Other useful tools:
 
 - (XtremeDownloadManager)[https://xtremedownloadmanager.com/]
+- (Google Chrome)[https://www.google.com/intl/es-419/chrome/]
+- (Visual Studio Code)[https://code.visualstudio.com/]
