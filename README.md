@@ -11,6 +11,7 @@ Steps
 7. You can install (GPG)[https://www.phildev.net/pgp/gpginstall#windows], or in my case, use the included in pass-winmenu downloaded directory.
 8. Copy or download your own password directory. Then follow pass-winmenu (setup instructions)[https://github.com/geluk/pass-winmenu#creating-a-new-password-store].
 9. I use a 60% keyboard, so I need to change my keyboard layout. To that, I use (Microsoft Keyboard Layout Creator)[https://www.microsoft.com/en-us/download/details.aspx?id=102134]. Then config it, it is really simple to use.
+10. Download and config (ContextMenuManager)[https://github.com/BluePointLilac/ContextMenuManager] to delete any unwanted option added to you Windows Context Menu.
 
 Other useful tools:
 
