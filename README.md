@@ -16,6 +16,6 @@ Steps
 
 Other useful tools:
 
-- [XtremeDownloadManager][(https://xtremedownloadmanager.com/)
+- [XtremeDownloadManager](https://xtremedownloadmanager.com/)
 - [Google Chrome](https://www.google.com/intl/es-419/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
