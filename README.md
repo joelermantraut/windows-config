@@ -15,4 +15,3 @@ Steps
 Other useful tools:
 
 - (XtremeDownloadManager)[https://xtremedownloadmanager.com/]
-- 
